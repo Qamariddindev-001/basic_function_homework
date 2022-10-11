@@ -7,5 +7,5 @@ int divide(int a, b) {
 }
 
 void main() {
-  print(divide(72, 8));
+  print(divide(4, 2));
 }
